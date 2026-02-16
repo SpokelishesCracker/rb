@@ -1,1 +1,1 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/SpokelishesCracker/rb/refs/heads/main/aykekshubloaded')))())())
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SpokelishesCracker/rb/refs/heads/main/loader"))();
